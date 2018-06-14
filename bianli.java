@@ -25,6 +25,7 @@ public class BianLi {
 		}
 		System.out.println(" ");
 		
+		
 		//增强for循环遍历
 		for(int i:a){
 			System.out.print(i + " ");
